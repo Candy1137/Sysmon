@@ -59,4 +59,4 @@ You can view them in **Windows Event Viewer**.
 
 ---
 
-➡️ Next: [Installation Guide](../02-installation/installation-guide.md)
+➡️ Next: [Installation Guide](02-installation-guide.md)
